@@ -1,5 +1,5 @@
 # Helloworld
 
-Esse é o meu priemiro código no github.
+Esse é o meu primeiro código no github.
 
 by Raiely Zanatta.
